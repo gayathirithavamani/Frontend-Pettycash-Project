@@ -52,8 +52,8 @@ const Login = () => {
           </div>
           <div className="testing">
             <h6> Test Credentials </h6>
-            <span className="test-left">email : test@gmail.com</span>
-            <span className="test-left">password : gayu123</span>
+            <span className="test-left">email :demo@gmail.com</span>
+            <span className="test-left">password : 123456789</span>
           </div>
         </Form>
       </div>
